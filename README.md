@@ -20,7 +20,7 @@ Keywords: Machine Learning, Python, AI, NLP , Computer Vision , Smart Electronic
 
 📫 How to Reach Me:
 
-LinkedIn: https://www.linkedin.com/in/syed-saad-hasan-samy-%E7%8E%8B%E6%B3%BD-5b1b23123/
+LinkedIn: [https://www.linkedin.com/in/syed-saad-samy-%E7%8E%8B%E6%B3%BD-5b1b23123/
 
 Researchgate: https://www.researchgate.net/profile/Syed-Saad-Hasan
 
