@@ -1,6 +1,6 @@
 ### Hi 👋 I’m Saad (王泽）
 
-Keywords: Machine Learning, Python, AI, NLP , Computer Vision , Smart Electronics and Neural Networks.
+Keywords: Machine Learning, AI, NLP , Computer Vision , Smart Electronics and Neural Networks.
 
 🎫 My Previous github account: https://github.com/Saad-data-zz
  
