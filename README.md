@@ -9,3 +9,5 @@
 🤝 Student Volunteer at 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing.
 
 🤔 I’m Looking for Help in Writing the articles on AI, Machine Learning Models & Deep learning
+
+📧 mailto: syedsaad047@gmail.com
