@@ -1,10 +1,10 @@
 ### Hi 👋 I’m Saad (王泽）
 
-Keywords: Machine Learning, AI, NLP , Computer Vision , Smart Electronics and Neural Networks.
+🎫 My Previous GitHub account: https://github.com/Saad-data-zz
 
-🎫 My Previous github account: https://github.com/Saad-data-zz
+🎓 Pursuing Master's in Artificial Intelligence and Robotics from Sapienza University of Rome. Italy. 
  
-🎓 I'm Currently Student of Bachelors of Engineering (Electronic Information Engineering) at China West Normal University in Sichuan, China.
+🎓 I have completed the Bachelor of Engineering (Electronic Information Engineering) at China West Normal University, China.
 
 🤝 Student Volunteer at 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (held virtually Nov 2022)
 
