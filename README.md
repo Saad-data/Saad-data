@@ -6,7 +6,8 @@
  
 🎓 I have completed the Bachelor of Engineering (Electronic Information Engineering) at China West Normal University, China.
 
-🤝 Student Volunteer at 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing.
+🤝 Student Volunteer at 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing - April 2023
+🤝 Student Volunteer at International Joint Conference on Neural Networks in Rome, Italy - June 2025
 
 🤔 I’m looking for Help in writing the articles on LLMs, using medical images with ResNet, LSTM, Vision Models, trying the Transformer model & Spiking Neural Networks 
 
