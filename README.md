@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Saad (王泽) – Welcome to my GitHub! 🚀
+### 👋 Hi there! I'm Saad (王泽) 🚀
 🔁 Former Account: Saad-data-zz
 
 🎓 I’m currently pursuing a Master’s in Artificial Intelligence and Robotics at Sapienza University of Rome, Italy.
